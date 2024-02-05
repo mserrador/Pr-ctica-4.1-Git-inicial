@@ -2,4 +2,4 @@
 
 esto es un archivo readme
 
-
+el programa ahora incluso te dice la fecha y hora cuando lo ejecutas!!!!!!!!!!!!
